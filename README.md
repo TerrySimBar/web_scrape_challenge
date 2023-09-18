@@ -174,7 +174,7 @@ You will need the following software and Python libraries to run the Jupyter Not
 <br>
 
 ---
-- The average minimum temperature bar graph is analyzed and checked with code, and then a statement is printed to tell the coldest and hottest months on Mars. 
+- The average minimum temperature bar graph is analyzed visually and checked with code, and then a statement is printed to tell the coldest and hottest months on Mars. 
 <img src = "Images/cold_hot_mnth.png" width="800"/>
 <br>
 <br>
@@ -195,7 +195,7 @@ You will need the following software and Python libraries to run the Jupyter Not
 
 ---
 
-- The average atmospheric pressure bar graph is analyzed and checked with code, and then two statements are printed to tell the months with the lowest and highest atmospheric pressure.
+- The average atmospheric pressure bar graph is analyzed visually and checked with code, and then two statements are printed to tell the months with the lowest and highest atmospheric pressure.
 <img src = "Images/prssr_stmnt.png" width="800"/>
 <br>
 <br>
@@ -213,7 +213,7 @@ You will need the following software and Python libraries to run the Jupyter Not
 <br>
 
 --- 
-- The number of Earth days in a martian year is estimated by subtracting the inputs of two consecutive peak coordinates of the graph. ie. 1425-650 = 675. A reliable source is also check on the internet to validate the estimation. 
+- The number of Earth days in a martian year is estimated visually by subtracting the inputs of two consecutive peak coordinates of the graph. ie. 1425-650 = 675. A reliable source is also checked on the internet to validate the estimation. 
 <br>
 
 #### Martians years (NASA.gov website)
